@@ -21,7 +21,7 @@ o	Attrition by Working Hours: A trend analysis showing peaks in attrition for sp
 o	Attrition by Job Role: Identifies Laboratory Technician (60 counts) and Sales Executive (55 counts) as the roles experiencing the highest employee turnover.
 o	Attrition by Gender: Provides a male (121) vs. female (73) attrition count comparison.
 ________________________________________
-🎯 Value Proposition
+🎯 Value Proposition -
 This dashboard serves as a vital tool for HR managers and business leaders by:
 •	Pinpointing High-Risk Segments: Quickly identifying the demographics (younger age, specific education backgrounds), tenure, and job roles most affected by turnover.
 •	Informing Retention Strategies: Providing the necessary context to develop targeted interventions, such as salary adjustments for lower bands, specialized engagement programs for high-attrition roles, or career path development for specific educational groups.
