@@ -1,9 +1,9 @@
-HR Analytics Dashboard: Understanding and Visualizing Employee Attrition
-🛠️ Technology Stack
-•	Visualization Tool: Microsoft Power BI Desktop
-•	Data Source: Microsoft Excel
+HR Analytics Dashboard: Understanding and Visualizing Employee Attrition.
+🛠️ Technology Stack -
+•	Visualization Tool: Microsoft Power BI Desktop.
+•	Data Source: Microsoft Excel.
 This repository contains the files and assets for an HR Analytics Dashboard built using Power BI. The dashboard provides a comprehensive, data-driven view of employee attrition, helping stakeholders identify key trends, vulnerable employee segments, and underlying factors contributing to turnover.
-🌟 Key Features and Insights
+🌟 Key Features and Insights -
 The dashboard is designed to be interactive and insightful, focusing on the following core metrics and breakdowns:
 1.	Overall Attrition Metrics:
 o	Total Employees: 1,413
