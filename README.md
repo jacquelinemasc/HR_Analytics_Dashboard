@@ -1,4 +1,4 @@
-## HR Analytics Dashboard: Understanding and Visualizing Employee Attrition (PowerBI)
+## HR Analytics Dashboard (PowerBI)
 
 # Technology Stack 
 •	Visualization Tool: Microsoft Power BI Desktop.
