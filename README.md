@@ -1,9 +1,9 @@
-HR Analytics Dashboard: Understanding and Visualizing Employee Attrition.
-🛠️ Technology Stack -
+## HR Analytics Dashboard: Understanding and Visualizing Employee Attrition (PowerBI)
+# Technology Stack 
 •	Visualization Tool: Microsoft Power BI Desktop.
 •	Data Source: Microsoft Excel.
 This repository contains the files and assets for an HR Analytics Dashboard built using Power BI. The dashboard provides a comprehensive, data-driven view of employee attrition, helping stakeholders identify key trends, vulnerable employee segments, and underlying factors contributing to turnover.
-🌟 Key Features and Insights -
+# Key Features and Insights 
 The dashboard is designed to be interactive and insightful, focusing on the following core metrics and breakdowns:
 1.	Overall Attrition Metrics:
 o	Total Employees: 1,413
@@ -20,8 +20,8 @@ o	Attrition by Salary: Clearly indicates that the majority of turnover occurs in
 o	Attrition by Working Hours: A trend analysis showing peaks in attrition for specific working hour totals (e.g., at 0,6, and 10 hours).
 o	Attrition by Job Role: Identifies Laboratory Technician (60 counts) and Sales Executive (55 counts) as the roles experiencing the highest employee turnover.
 o	Attrition by Gender: Provides a male (121) vs. female (73) attrition count comparison.
-________________________________________
-🎯 Value Proposition -
+
+# Value Proposition 
 This dashboard serves as a vital tool for HR managers and business leaders by:
 •	Pinpointing High-Risk Segments: Quickly identifying the demographics (younger age, specific education backgrounds), tenure, and job roles most affected by turnover.
 •	Informing Retention Strategies: Providing the necessary context to develop targeted interventions, such as salary adjustments for lower bands, specialized engagement programs for high-attrition roles, or career path development for specific educational groups.
