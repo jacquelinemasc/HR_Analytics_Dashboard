@@ -1,6 +1,6 @@
-## HR Analytics Dashboard (PowerBI)
+# HR Analytics Dashboard (PowerBI)
 
-# Technology Stack 
+## Technology Stack 
 •	Visualization Tool: Microsoft Power BI Desktop.
 •	Data Source: Microsoft Excel.
 This repository contains the files and assets for an HR Analytics Dashboard built using Power BI. The dashboard provides a comprehensive, data-driven view of employee attrition, helping stakeholders identify key trends, vulnerable employee segments, and underlying factors contributing to turnover.
